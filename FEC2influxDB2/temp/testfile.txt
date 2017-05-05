@@ -1,0 +1,1 @@
+SELECT distinct("FEC_BEF_CORER_FLOAT") FROM "PM" WHERE "NEName" = 'GEB990.9832.1.US1.2' AND "BrdID" = '32' AND "PortNO" = '1' AND $timeFilter GROUP BY time($interval) fill(null)

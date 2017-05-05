@@ -1,0 +1,117 @@
+2016-11-24 14:48:48,894 - FEC2influxDB - start_loging - DEBUG - Start FEC2influxDB Version 0.8 Date 31.10.2016
+2016-11-24 14:48:48,894 - FEC2influxDB - run - DEBUG - DB should be ready
+2016-11-24 14:48:49,225 - remoteConnect - connect - DEBUG - Connected to Host 172.17.116.25
+2016-11-24 14:48:59,241 - remoteConnect - connect - ERROR - failed to connect to 172.17.116.86
+2016-11-24 14:48:59,260 - remoteConnect - latestFile - DEBUG - File with the latest timestamp MAIN
+2016-11-24 14:48:59,711 - remoteConnect - getFile - DEBUG - get filename ./temp/Schedule_pfm_WDM_20161124133145173.txt
+2016-11-24 14:48:59,711 - FEC2influxDB - run - INFO - Data File found on server and downloaded ./temp/Schedule_pfm_WDM_20161124133145173.txt
+2016-11-24 14:48:59,711 - FEC2influxDB - run - DEBUG - Start to Convert Data
+2016-11-24 14:48:59,711 - csvManager - open - DEBUG - Open CSV file ./temp/Schedule_pfm_WDM_20161124133145173.txt
+2016-11-24 14:49:00,043 - csvManager - open - INFO - Number of lines in CSV file 25936
+2016-11-24 14:49:00,181 - converter - csv2influx - INFO - Number of data rows converted 25936
+2016-11-24 14:49:00,212 - FEC2influxDB - run - DEBUG - Start Write Data to DB
+2016-11-24 14:50:48,508 - FEC2influxDB - run - INFO - Wrote 25936 Measurement Values to DB
+2016-11-24 14:50:48,508 - FEC2influxDB - run - DEBUG - Delete data file from local filesystem ./temp/Schedule_pfm_WDM_20161124133145173.txt
+2016-11-24 14:50:48,508 - FEC2influxDB - run - INFO - Data importet to DB successful
+2016-11-24 14:57:45,186 - FEC2influxDB - start_loging - DEBUG - Start FEC2influxDB Version 0.8 Date 31.10.2016
+2016-11-24 14:57:45,186 - FEC2influxDB - run - DEBUG - DB should be ready
+2016-11-24 14:57:45,540 - remoteConnect - connect - DEBUG - Connected to Host 172.17.116.25
+2016-11-24 14:57:55,541 - remoteConnect - connect - ERROR - failed to connect to 172.17.116.86
+2016-11-24 14:57:55,556 - remoteConnect - latestFile - DEBUG - File with the latest timestamp MAIN
+2016-11-24 14:57:56,025 - remoteConnect - getFile - DEBUG - get filename ./temp/Schedule_pfm_WDM_20161124133145173.txt
+2016-11-24 14:57:56,025 - FEC2influxDB - run - INFO - Data File found on server and downloaded ./temp/Schedule_pfm_WDM_20161124133145173.txt
+2016-11-24 14:57:56,025 - FEC2influxDB - run - DEBUG - Start to Convert Data
+2016-11-24 14:57:56,025 - csvManager - open - DEBUG - Open CSV file ./temp/Schedule_pfm_WDM_20161124133145173.txt
+2016-11-24 14:57:56,388 - csvManager - open - INFO - Number of lines in CSV file 25936
+2016-11-24 14:57:56,542 - converter - csv2influx - INFO - Number of data rows converted 25936
+2016-11-24 14:57:56,573 - FEC2influxDB - run - DEBUG - Start Write Data to DB
+2016-11-24 14:59:48,256 - FEC2influxDB - run - INFO - Wrote 25936 Measurement Values to DB
+2016-11-24 14:59:48,256 - FEC2influxDB - run - DEBUG - Delete data file from local filesystem ./temp/Schedule_pfm_WDM_20161124133145173.txt
+2016-11-24 14:59:48,256 - FEC2influxDB - run - INFO - Data importet to DB successful
+2016-11-24 15:11:25,416 - FEC2influxDB - start_loging - DEBUG - Start FEC2influxDB Version 0.8 Date 31.10.2016
+2016-11-24 15:11:25,416 - FEC2influxDB - run - DEBUG - DB should be ready
+2016-11-24 15:11:25,779 - remoteConnect - connect - DEBUG - Connected to Host 172.17.116.25
+2016-11-24 15:11:35,787 - remoteConnect - connect - ERROR - failed to connect to 172.17.116.86
+2016-11-24 15:11:35,792 - remoteConnect - latestFile - DEBUG - File with the latest timestamp MAIN
+2016-11-24 15:11:36,309 - remoteConnect - getFile - DEBUG - get filename ./temp/Schedule_pfm_WDM_20161124140824169.txt
+2016-11-24 15:11:36,309 - FEC2influxDB - run - INFO - Data File found on server and downloaded ./temp/Schedule_pfm_WDM_20161124140824169.txt
+2016-11-24 15:11:36,309 - FEC2influxDB - run - DEBUG - Start to Convert Data
+2016-11-24 15:11:36,309 - csvManager - open - DEBUG - Open CSV file ./temp/Schedule_pfm_WDM_20161124140824169.txt
+2016-11-24 15:11:36,691 - csvManager - open - INFO - Number of lines in CSV file 25936
+2016-11-24 15:11:36,810 - converter - csv2influx - INFO - Number of data rows converted 25936
+2016-11-24 15:11:36,857 - FEC2influxDB - run - DEBUG - Start Write Data to DB
+2016-11-24 15:13:28,042 - FEC2influxDB - start_loging - DEBUG - Start FEC2influxDB Version 0.8 Date 31.10.2016
+2016-11-24 15:13:28,042 - FEC2influxDB - run - DEBUG - DB should be ready
+2016-11-24 15:13:28,380 - remoteConnect - connect - DEBUG - Connected to Host 172.17.116.25
+2016-11-24 15:13:38,389 - remoteConnect - connect - ERROR - failed to connect to 172.17.116.86
+2016-11-24 15:13:38,405 - remoteConnect - latestFile - DEBUG - File with the latest timestamp MAIN
+2016-11-24 15:13:38,857 - remoteConnect - getFile - DEBUG - get filename ./temp/Schedule_pfm_WDM_20161124140824169.txt
+2016-11-24 15:13:38,857 - FEC2influxDB - run - INFO - Data File found on server and downloaded ./temp/Schedule_pfm_WDM_20161124140824169.txt
+2016-11-24 15:13:38,857 - FEC2influxDB - run - DEBUG - Start to Convert Data
+2016-11-24 15:13:38,857 - csvManager - open - DEBUG - Open CSV file ./temp/Schedule_pfm_WDM_20161124140824169.txt
+2016-11-24 15:13:39,205 - csvManager - open - INFO - Number of lines in CSV file 25936
+2016-11-24 15:13:39,358 - converter - csv2influx - INFO - Number of data rows converted 25936
+2016-11-24 15:13:39,374 - FEC2influxDB - run - DEBUG - Start Write Data to DB
+2016-11-24 15:15:33,751 - FEC2influxDB - run - INFO - Wrote 25936 Measurement Values to DB
+2016-11-24 15:15:33,751 - FEC2influxDB - run - DEBUG - Delete data file from local filesystem ./temp/Schedule_pfm_WDM_20161124140824169.txt
+2016-11-24 15:15:33,751 - FEC2influxDB - run - INFO - Data importet to DB successful
+2016-11-24 15:20:18,280 - FEC2influxDB - start_loging - DEBUG - Start FEC2influxDB Version 0.8 Date 31.10.2016
+2016-11-24 15:20:18,281 - FEC2influxDB - run - DEBUG - DB should be ready
+2016-11-24 15:20:18,615 - remoteConnect - connect - DEBUG - Connected to Host 172.17.116.25
+2016-11-24 15:20:28,621 - remoteConnect - connect - ERROR - failed to connect to 172.17.116.86
+2016-11-24 15:20:28,636 - remoteConnect - latestFile - DEBUG - File with the latest timestamp MAIN
+2016-11-24 15:20:29,159 - remoteConnect - getFile - DEBUG - get filename ./temp/Schedule_pfm_WDM_20161124140824169.txt
+2016-11-24 15:20:29,174 - FEC2influxDB - run - INFO - Data File found on server and downloaded ./temp/Schedule_pfm_WDM_20161124140824169.txt
+2016-11-24 15:20:29,174 - FEC2influxDB - run - DEBUG - Start to Convert Data
+2016-11-24 15:20:29,174 - csvManager - open - DEBUG - Open CSV file ./temp/Schedule_pfm_WDM_20161124140824169.txt
+2016-11-24 15:20:29,638 - csvManager - open - INFO - Number of lines in CSV file 25936
+2016-11-24 15:20:29,807 - converter - csv2influx - INFO - Number of data rows converted 25936
+2016-11-24 15:20:29,860 - FEC2influxDB - run - DEBUG - Start Write Data to DB
+2016-11-24 15:22:35,842 - FEC2influxDB - run - INFO - Wrote 25936 Measurement Values to DB
+2016-11-24 15:22:35,842 - FEC2influxDB - run - DEBUG - Delete data file from local filesystem ./temp/Schedule_pfm_WDM_20161124140824169.txt
+2016-11-24 15:22:35,842 - FEC2influxDB - run - INFO - Data importet to DB successful
+2016-11-24 15:38:47,488 - FEC2influxDB - start_loging - DEBUG - Start FEC2influxDB Version 0.8 Date 31.10.2016
+2016-11-24 15:38:47,488 - FEC2influxDB - run - DEBUG - DB should be ready
+2016-11-24 15:38:47,832 - remoteConnect - connect - DEBUG - Connected to Host 172.17.116.25
+2016-11-24 15:38:57,848 - remoteConnect - connect - ERROR - failed to connect to 172.17.116.86
+2016-11-24 15:38:57,863 - remoteConnect - latestFile - DEBUG - File with the latest timestamp MAIN
+2016-11-24 15:38:58,301 - remoteConnect - getFile - DEBUG - get filename ./temp/Schedule_pfm_WDM_20161124140824169.txt
+2016-11-24 15:38:58,301 - FEC2influxDB - run - INFO - Data File found on server and downloaded ./temp/Schedule_pfm_WDM_20161124140824169.txt
+2016-11-24 15:38:58,301 - FEC2influxDB - run - DEBUG - Start to Convert Data
+2016-11-24 15:38:58,301 - csvManager - open - DEBUG - Open CSV file ./temp/Schedule_pfm_WDM_20161124140824169.txt
+2016-11-24 15:38:58,676 - csvManager - open - INFO - Number of lines in CSV file 25936
+2016-11-24 15:38:58,801 - converter - csv2influx - INFO - Number of data rows converted 25936
+2016-11-24 15:38:58,832 - FEC2influxDB - run - DEBUG - Start Write Data to DB
+2016-11-24 15:40:56,113 - FEC2influxDB - run - INFO - Wrote 25936 Measurement Values to DB
+2016-11-24 15:40:56,113 - FEC2influxDB - run - DEBUG - Delete data file from local filesystem ./temp/Schedule_pfm_WDM_20161124140824169.txt
+2016-11-24 15:40:56,113 - FEC2influxDB - run - INFO - Data importet to DB successful
+2016-11-24 15:50:21,493 - FEC2influxDB - start_loging - DEBUG - Start FEC2influxDB Version 0.8 Date 31.10.2016
+2016-11-24 15:50:21,493 - FEC2influxDB - run - DEBUG - DB should be ready
+2016-11-24 15:50:21,837 - remoteConnect - connect - DEBUG - Connected to Host 172.17.116.25
+2016-11-24 15:50:31,837 - remoteConnect - connect - ERROR - failed to connect to 172.17.116.86
+2016-11-24 15:50:31,853 - remoteConnect - latestFile - DEBUG - File with the latest timestamp MAIN
+2016-11-24 15:50:32,306 - remoteConnect - getFile - DEBUG - get filename ./temp/Schedule_pfm_WDM_20161124140824169.txt
+2016-11-24 15:50:32,306 - FEC2influxDB - run - INFO - Data File found on server and downloaded ./temp/Schedule_pfm_WDM_20161124140824169.txt
+2016-11-24 15:50:32,306 - FEC2influxDB - run - DEBUG - Start to Convert Data
+2016-11-24 15:50:32,306 - csvManager - open - DEBUG - Open CSV file ./temp/Schedule_pfm_WDM_20161124140824169.txt
+2016-11-24 15:50:32,728 - csvManager - open - INFO - Number of lines in CSV file 25936
+2016-11-24 15:50:32,868 - converter - csv2influx - INFO - Number of data rows converted 25936
+2016-11-24 15:50:32,900 - FEC2influxDB - run - DEBUG - Start Write Data to DB
+2016-11-24 15:52:27,308 - FEC2influxDB - run - INFO - Wrote 25936 Measurement Values to DB
+2016-11-24 15:52:27,308 - FEC2influxDB - run - DEBUG - Delete data file from local filesystem ./temp/Schedule_pfm_WDM_20161124140824169.txt
+2016-11-24 15:52:27,308 - FEC2influxDB - run - INFO - Data importet to DB successful
+2016-11-24 15:56:30,662 - FEC2influxDB - start_loging - DEBUG - Start FEC2influxDB Version 0.9 Date 24.11.2016
+2016-11-24 15:56:30,662 - FEC2influxDB - run - DEBUG - DB should be ready
+2016-11-24 15:56:31,094 - remoteConnect - connect - DEBUG - Connected to Host 172.17.116.25
+2016-11-24 15:56:41,100 - remoteConnect - connect - ERROR - failed to connect to 172.17.116.86
+2016-11-24 15:56:41,116 - remoteConnect - latestFile - DEBUG - File with the latest timestamp MAIN
+2016-11-24 15:56:41,586 - remoteConnect - getFile - DEBUG - get filename ./temp/Schedule_pfm_WDM_20161124140824169.txt
+2016-11-24 15:56:41,586 - FEC2influxDB - run - INFO - Data File found on server and downloaded ./temp/Schedule_pfm_WDM_20161124140824169.txt
+2016-11-24 15:56:41,586 - FEC2influxDB - run - DEBUG - Start to Convert Data
+2016-11-24 15:56:41,586 - csvManager - open - DEBUG - Open CSV file ./temp/Schedule_pfm_WDM_20161124140824169.txt
+2016-11-24 15:56:41,966 - csvManager - open - INFO - Number of lines in CSV file 25936
+2016-11-24 15:56:42,094 - converter - csv2influx - INFO - Number of data rows converted 25936
+2016-11-24 15:56:42,135 - FEC2influxDB - run - DEBUG - Start Write Data to DB
+2016-11-24 15:58:41,490 - FEC2influxDB - run - INFO - Wrote 25936 Measurement Values to DB
+2016-11-24 15:58:41,490 - FEC2influxDB - run - DEBUG - Delete data file from local filesystem ./temp/Schedule_pfm_WDM_20161124140824169.txt
+2016-11-24 15:58:41,490 - FEC2influxDB - run - INFO - Data importet to DB successful
